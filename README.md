@@ -57,4 +57,14 @@ New accounts receive a starter learning plan for the three courses shown on the 
 Problem: a small coaching academy needed a professional website and a way for students to track progress.
 Solution: a responsive React site plus a student portal with sign-up, sign-in and saved progress.
 Stack: React, Vite, Tailwind CSS, Framer Motion, Node.js, Express, MongoDB, JWT.
-Live demo: add link here. Demo login: add email and password here.
+Live demo: https://bright-academy-dun.vercel.app
+Demo login: demo@brightacademy.com / demo1234
+Note: the backend runs on a free hosting plan, so the first login or register after a period of inactivity may take 30-50 seconds. After that, everything runs normally.
+## Screenshots
+
+![Home page](screenshots/home.png)
+![Courses page](screenshots/course1.png)
+![Courses page](screenshots/course2.png)
+![Login page](screenshots/login.png)
+![Student dashboard](screenshots/dashboard.png)
+![Mobile view](screenshots/mobile.png)
